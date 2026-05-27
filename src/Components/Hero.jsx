@@ -10,7 +10,7 @@ export default function Hero({ onShoot }) {
       <p className="text-sm text-white/60 max-w-lg mb-8">{t('hero.description')}</p>
       <div className="flex flex-wrap gap-4 mb-6">
         <a href="#projets" className="bg-[#eceaf5] text-[#08090f] px-6 py-3 rounded-sm font-semibold text-sm hover:shadow-lg transition">{t('hero.projects_btn')}</a>
-        <a href="/cv-arthur-dauneau.pdf" download className="border border-white/15 px-6 py-3 text-white/70 rounded-sm text-sm hover:text-[#eceaf5] hover:border-white/30 transition">{t('hero.cv_btn')}</a>
+        <a href="/cv-Arthur.pdf" download className="border border-white/15 px-6 py-3 text-white/70 rounded-sm text-sm hover:text-[#eceaf5] hover:border-white/30 transition">{t('hero.cv_btn')}</a>
       </div>
       <div className="flex gap-6 items-center">
         <a href="https://github.com/MelioSousLo" className="text-xs text-white/40 hover:text-white transition">GitHub ↗</a>
