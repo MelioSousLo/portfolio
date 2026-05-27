@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "about": "À propos",
+    "competences": "Compétences",
+    "projets": "Projets",
+    "experiences": "Expériences",
+    "contact": "Contact"
+  },
+  "hero": {
+    "subtitle": "Étudiant en informatique — 1ère année de bachelor",
+    "title1": "Arthur",
+    "title2": "Dauneau",
+    "description": "Passionné par le développement et la résolution de problèmes. En première année d'informatique, je construis mes compétences projet après projet.",
+    "projects_btn": "Voir mes projets",
+    "cv_btn": "Télécharger mon CV"
+  },
+  "about": {
+    "title": "À propos",
+    "p1": "Je suis étudiant à Epitech en Bachelor, en fin de première année. Je m'intéresse à l'informatique, avec une attirance particulière pour la cybersécurité et le développement web.",
+    "p2": "J'aime apprendre en pratiquant, notamment à travers des projets personnels et des plateformes comme TryHackMe ou des exercices de développement.",
+    "p3": "J'ai aussi pratiqué plusieurs sports comme le tennis et le hockey sur glace. Ça m'a appris la rigueur, la progression sur le long terme et le travail en équipe.",
+    "p4": "En dehors de ça, je m'intéresse à la musique, aux jeux vidéo, à l'art et aux sports automobiles, qui font partie de mon quotidien."
+  },
+  "competences": {
+    "title": "Compétences"
+  },
+  "projets": {
+    "title": "Projets",
+    "view": "Voir le projet",
+    "greenway": "Réalisation d'un site pour une association d'écologie, visant a nous faire faire de l'éco-conception",
+    "tardis": "Création d'un modèle de prédiction afin de prédire les retard de la SNCF",
+    "confucius": "Conception d'un chatbot sur discord, faisant office de professeur particulié",
+    "pentesting": "Projet de cyber-sécurité sur le site Juice Shop afin de prendre en main le top10 OSWAP",
+    "matchboite": "MatchBoite est un MVP web permettant à des candidats et des entreprises de se découvrir via un système de swipe",
+    "nextbuy": "Dans ce projet on cherche à comprendre la jeu de données que l'on nous à fournis, et d'en prédire des conclusions afin d'aider les magasins à mieux interpréter et améliorer l'expérience client."
+  },
+  "experiences": {
+    "title": "Expériences",
+    "epitech": "Formation d'apprentissage informatique en passant par : Web, Cybersécurité, Product design, IA, Data",
+    "hackaton_bpce": "Hackaton réaliser par mon école et par la BPCE, afin d'aider la BPCEà trouver une solution a leur problème. Notre groupe à fini 1er",
+    "stage": "En recherche de stage dans la cybersécurité ou le web sur une durée de 1 mois"
+  },
+  "contact": {
+    "title": "Contact",
+    "heading": "Travaillons ensemble",
+    "description": "Tu veux me proposer un projet ou simplement échanger ? N'hésite pas à m'écrire.",
+    "name": "Ton nom",
+    "email": "Ton email",
+    "message": "Ton message...",
+    "send": "Envoyer le message",
+    "sending": "Envoi en cours...",
+    "success_title": "Message envoyé",
+    "success_msg": "Je te répondrai dès que possible.",
+    "error": "Erreur lors de l'envoi, réessaie.",
+    "required": "Merci de remplir tous les champs."
+  },
+  "footer": {
+    "copyright": "© 2026 Arthur Dauneau",
+    "made": "Fait avec React"
+  }
+}

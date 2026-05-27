@@ -46,7 +46,7 @@ export default function StarsBackground() {
 
     const draw = () => {
         // ── Remplir le fond noir à chaque frame ──
-        ctx.fillStyle = "#000000"; // couleur de l'espace
+        ctx.fillStyle = "#08090f"; // couleur de l'espace
         ctx.fillRect(0, 0, width, height);
 
         // ── Étoiles statiques ──
@@ -67,7 +67,7 @@ export default function StarsBackground() {
             ctx.moveTo(star.x, star.y);
             ctx.lineTo(star.x - Math.cos(star.angle) * star.len, star.y - Math.sin(star.angle) * star.len);
             ctx.strokeStyle = "rgba(255, 255, 240, 0.8)";
-            ctx.lineWidth = 1;
+            ctx.lineWidth = 2;
             ctx.stroke();
             if (star.x > width || star.y > height) shootingStars.splice(i, 1);
         });

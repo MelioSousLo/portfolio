@@ -1,10 +1,12 @@
 // ─── Skills ─────────────────────────────────────────────
+import { useTranslation } from "react-i18next";
 
 export default function Skills({ skills , skill_lvl }) {
+  const { t } = useTranslation();
   return (
     <section id="competences" className="px-6 md:px-20 max-w-6xl mx-auto py-24">
-      <h2 className="text-xs text-white/40 uppercase tracking-widest mb-12">Compétences</h2>
-      <div className="grid gap-12 md:grid-cols-3 block border border-white/10 bg-white/5 p-6 rounded">
+      <h2 className="text-xs text-white/40 uppercase tracking-widest mb-12">{t('competences.title')}</h2>
+      <div className="grid gap-12 md:grid-cols-3">
         {skills.map((group) => (
           <div key={group.category}>
             <h3 className="font-bebas text-lg text-[#d8d6e8] mb-4">{group.category}</h3>

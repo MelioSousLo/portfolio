@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "about": "About",
+    "competences": "Skills",
+    "projets": "Projects",
+    "experiences": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "subtitle": "Computer Science Student — 1st year of bachelor",
+    "title1": "Arthur",
+    "title2": "Dauneau",
+    "description": "Passionate about development and problem-solving. In my first year of computer science, I'm building my skills project by project.",
+    "projects_btn": "View my projects",
+    "cv_btn": "Download my CV"
+  },
+  "about": {
+    "title": "About",
+    "p1": "I'm a student at Epitech pursuing a Bachelor's degree, currently in my first year. I'm interested in computer science, with a particular attraction to cybersecurity and web development.",
+    "p2": "I love learning by doing, through personal projects and platforms like TryHackMe or development exercises.",
+    "p3": "I've also practiced several sports like tennis and ice hockey. They taught me rigor, long-term progression, and teamwork.",
+    "p4": "Outside of that, I'm interested in music, video games, art, and motorsports, which are part of my daily life."
+  },
+  "competences": {
+    "title": "Skills"
+  },
+  "projets": {
+    "title": "Projects",
+    "view": "View project",
+    "greenway": "Creation of a website for an ecology association, aiming to make us practice eco-design",
+    "tardis": "Creation of a prediction model to predict SNCF delays",
+    "confucius": "Design of a Discord chatbot acting as a private tutor",
+    "pentesting": "Cybersecurity project on the Juice Shop website to master the OWASP top 10",
+    "matchboite": "MatchBoite is a web MVP allowing candidates and companies to discover each other through a swipe system",
+    "nextbuy": "In this project we seek to understand the dataset provided to us, and predict conclusions to help stores better interpret and improve the customer experience."
+  },
+  "experiences": {
+    "title": "Experience",
+    "epitech": "Computer science learning program covering: Web, Cybersecurity, Product design, AI, Data",
+    "hackaton_bpce": "Hackathon organized by my school and BPCE to help BPCE find a solution to their problem. Our group finished 1st",
+    "stage": "Looking for an internship in cybersecurity or web development for a duration of 1 month"
+  },
+  "contact": {
+    "title": "Contact",
+    "heading": "Let's work together",
+    "description": "Want to propose a project or just chat? Feel free to write to me.",
+    "name": "Your name",
+    "email": "Your email",
+    "message": "Your message...",
+    "send": "Send message",
+    "sending": "Sending...",
+    "success_title": "Message sent",
+    "success_msg": "I'll get back to you as soon as possible.",
+    "error": "Error sending the message, please try again.",
+    "required": "Please fill in all fields."
+  },
+  "footer": {
+    "copyright": "© 2026 Arthur Dauneau",
+    "made": "Made with React"
+  }
+}
